@@ -13,20 +13,21 @@ In this project, I use:
 
 ### Features
 Fortunately, the app can do something for you:
-* Pulling public photos from Flickr and display them
-* Seaching based on text input
+ 
+ * Initially, the app will pull public photos from Flickr 
+```
+flickr.photos.getRecent
+Returns a list of the latest public photos uploaded to flickr.
+```
+ * Seaching based on text input
 ```
 flickr.photos.search
-Return a list of photos matching some criteria. Only photos visible to 
-the calling user will be returned. 
+Return a list of photos matching some criteria. Only photos visible to the calling user
+will be returned. 
 
 ```
 
-Clone the angular-seed repository using [git][git
-```
-git clone https://github.com/angular/angular-seed.git
-cd angular-seed
-```
+
 
 ### Install Dependencies
 
