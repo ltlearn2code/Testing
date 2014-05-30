@@ -17,8 +17,8 @@ Fortunately, the app can do something for you:
 * Seaching based on text input
 ```
 flickr.photos.search
-
-Return a list of photos matching some criteria. Only photos visible to the calling user will be returned. 
+Return a list of photos matching some criteria. Only photos visible to 
+the calling user will be returned. 
 
 ```
 
