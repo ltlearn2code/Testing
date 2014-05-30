@@ -1,11 +1,11 @@
 # Awesome photos from Flickr
 
-This project is my very first attempt to build a image viewer using JavaScript and related frameworks with Flickr API.
+This project is my very first attempt to build a web app using JavaScript and related frameworks with Flickr API.
 
 ### Technology stack
 In this project, I use:
 
- * AngularJS
+ * [AngularJS][https://angularjs.org/]
  * Boostrap
  * Flickr API
  * Blueimp gallery
