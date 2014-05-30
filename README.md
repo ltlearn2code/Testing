@@ -5,10 +5,10 @@ This project is my very first attempt to build a web app using JavaScript and re
 ### Technology stack
 In this project, I use:
 
- * [AngularJS][https://angularjs.org/]
- * Boostrap
- * Flickr API
- * Blueimp gallery
+ * [AngularJS](https://angularjs.org/)
+ * [Boostrap](http://getbootstrap.com/)
+ * [Flickr API](https://www.flickr.com/services/api/)
+ * [Blueimp gallery](http://blueimp.github.io/Bootstrap-Image-Gallery/)
 
 
 ### Features
