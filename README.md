@@ -1,6 +1,6 @@
 # Awesome photos from Flickr
 
-This project is my very first attempt to build a web app using JavaScript and related frameworks with Flickr API.
+This project is my very first attempt to build a image viewer using JavaScript and related frameworks with Flickr API.
 
 ### Technology stack
 In this project, I use:
@@ -26,6 +26,11 @@ Return a list of photos matching some criteria. Only photos visible to the calli
 which title, description or tags contain the text will be returned.
 
 ```
- * Display each photo in a lightbox if you click on individual one
+ * Display each photo in a lightbox when you click on individual one. If you click on the 
+ photo again, you can see the title and the effect created by Blueimp (it's very nice you
+ should try it)  
 
+Happy coding! :)
+
+Lan Tran
 
